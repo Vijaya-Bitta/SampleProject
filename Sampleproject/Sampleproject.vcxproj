@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="Sampleproject.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Airline.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
